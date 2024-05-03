@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Nicollas Frei
 
 - 🔭 Hoje estou cursando ADS na Fiap
-- 🌱 Estudando Html, Css, Python, Java
+- 🌱 Estudando Html, Css, Python, Java e JavaScript
 - ✨ Apaixonado por novas tecnologias
 
 <div style="display: inline_block"><br>
