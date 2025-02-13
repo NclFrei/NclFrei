@@ -1,20 +1,27 @@
 ## Olá! Eu sou o Nicollas Frei
 
 - 🔭 Hoje estou cursando ADS na Fiap
-- 🌱 Estudando Html, Css, Python, Java e JavaScript
-- ✨ Apaixonado por novas tecnologias
+- 💼 Estágiario em desenvolvimento na Vivo   [<img align="rigth" height="20px" width="20px" alt="Nubank" src="https://logopng.com.br/logos/vivo-119.svg"/>](https://logopng.com.br/logos/vivo-119.svg)
+- 🌱 Aprendendo mais sobre C#, React, Java, Js e SQL.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">    
-</div>
+## Minhas Skills
 
-  ##
+**Aplicações e dados**
 
-  <div> 
+[![SkillIcons](https://skillicons.dev/icons?i=cs,react,js,mysql,java)](https://skillicons.dev)<br/>
+
+**Utilidades**
+
+[![SkillIcons](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)<br/>
+
+**DevOps**
+
+[![SkillIcons](https://skillicons.dev/icons?i=git,github,azure)](https://skillicons.dev)<br/>
+
+## Onde me encontrar
+
+
+<div> 
  
   <a href = "mailto:nicollasfreieleoterio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/nicollas-frei" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
