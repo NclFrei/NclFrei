@@ -8,7 +8,7 @@
 
 **Aplicações e dados**
 
-[![SkillIcons](https://skillicons.dev/icons?i=cs,react,js,mysql,java)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=java,cs,react,js,mysql)](https://skillicons.dev)<br/>
 
 **Utilidades**
 
